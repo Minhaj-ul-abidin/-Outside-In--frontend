@@ -1,10 +1,9 @@
 import RestaurantScreen from './components/RestaurantScreen';
 
 const App = () => (
-    <div>
-      <RestaurantScreen />
-    </div>
-  
-  );
+  <div>
+    <RestaurantScreen />
+  </div>
+);
 
 export default App;
